@@ -1034,3 +1034,9 @@ button#btn-fd {
     width:auto !important;
   }
 }
+@media only screen and (max-width:450px){
+  .pad-med{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
