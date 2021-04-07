@@ -1128,6 +1128,7 @@ button#btn-fd {
 		justify-content: center;
 		align-items: center;
 		height: 100%;
+		width:0;
 		position: fixed;
 		z-index: 999;
 		top: 0;
