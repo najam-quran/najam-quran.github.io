@@ -1155,7 +1155,6 @@ button#btn-fd {
 
 @media only screen and (min-width:992px) {
 	.navbar-nav {
-		width: auto!important;
 		box-shadow: none!important
 	}
 	.menu {
