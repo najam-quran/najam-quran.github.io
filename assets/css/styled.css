@@ -1128,7 +1128,6 @@ button#btn-fd {
 		justify-content: center;
 		align-items: center;
 		height: 100%;
-		width: 0;
 		position: fixed;
 		z-index: 999;
 		top: 0;
@@ -1153,16 +1152,7 @@ button#btn-fd {
 	}
 }
 
-@media only screen and (min-width:992px) {
-	.navbar-nav {
-		box-shadow: none!important;
-		width:auto !important;
-	}
-	.menu {
-		opacity: 0;
-		visibility: hidden
-	}
-}
+
 
 @media only screen and (max-width:969px) {
 	.card-form {
@@ -1218,5 +1208,15 @@ button#btn-fd {
 	.pad-med {
 		padding-left: 0!important;
 		padding-right: 0!important
+	}
+}
+@media only screen and (min-width: 992px) {
+	.navbar-nav {
+		box-shadow: none!important;
+		width:auto !important;
+	}
+	.menu {
+		opacity: 0;
+		visibility: hidden
 	}
 }
