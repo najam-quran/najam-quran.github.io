@@ -889,7 +889,7 @@ button.modalclose ion-icon {
 .footer-area .footer-top .single-footer-caption .footer-form form .form-icon button {
 	position: absolute;
 	top: 0;
-	right: 0;
+	right: 100%;
 	background: 0 0;
 	border: 0;
 	cursor: pointer;
@@ -1131,7 +1131,7 @@ button#btn-fd {
 		position: fixed;
 		z-index: 999;
 		top: 0;
-		right: 0;
+		right: 100%;
 		background-color: #fff;
 		overflow-x: hidden;
 		transition: .5s;
