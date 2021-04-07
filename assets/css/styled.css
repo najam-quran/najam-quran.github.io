@@ -1141,7 +1141,7 @@ button#btn-fd {
 	.menu {
 		display: flex;
 		opacity: 1;
-		visibility: visible
+		visibility: visible;
 	}
 	.nav-item {
 		padding: 10px 0!important
@@ -1210,7 +1210,7 @@ button#btn-fd {
 		padding-right: 0!important
 	}
 }
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 991px) {
 	.navbar-nav {
 		box-shadow: none!important;
 		width:auto !important;
