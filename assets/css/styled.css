@@ -1117,7 +1117,7 @@ button#btn-fd {
 	}
 }
 
-@media only screen and (max-width:991px) {
+@media only screen and (max-width:992px) {
 	.t-side {
 		display: flex;
 		justify-content: center;
