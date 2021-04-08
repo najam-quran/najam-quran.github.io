@@ -1119,12 +1119,11 @@ button#btn-fd {
 
 @media only screen and (max-width:992px) {
 	.t-side {
-		display: none;
+		display: flex;
 		justify-content: center;
 		align-items: center;
 		height: 100%;
-		width:320px;
-		visiblity:hidden;
+		width:0;
 		position: fixed;
 		z-index: 999;
 		top: 0;
