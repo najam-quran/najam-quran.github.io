@@ -787,10 +787,6 @@ button:focus {
 	line-height: 50px
 }
 
-.modal-title {
-	position: relative
-}
-
 .modalclose {
 	position: absolute;
 	top: 10%;
@@ -889,7 +885,7 @@ button.modalclose ion-icon {
 .footer-area .footer-top .single-footer-caption .footer-form form .form-icon button {
 	position: absolute;
 	top: 0;
-	right: 100%;
+	right: 0;
 	background: 0 0;
 	border: 0;
 	cursor: pointer;
@@ -938,7 +934,6 @@ button.modalclose ion-icon {
 .footer-logo img {
 	width: 100px
 }
-
 .txtarea {
 	height: 268px!important;
 	background: rgb(238 238 238 / .5)!important
