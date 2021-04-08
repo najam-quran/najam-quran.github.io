@@ -17,8 +17,7 @@ function closeNav() {
     e.style.opacity = "1", e.classList.remove("opened"), t.classList.remove("toggle-nav"), tl2.reverse()
 }
 tl2.to(".t-side", {
-    display:"flex",
-    visibility:"visible",
+    width:"320px",
   	right:"0%",
 }), tl2.to(".closebtn", {
     visibility: "visible"
