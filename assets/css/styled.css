@@ -1002,8 +1002,8 @@ button.modalclose ion-icon {
 }
 
 .imimage {
-	background-color: #aaa;
-	width: 100%
+    background-color: transparent;
+    width: 100%;
 }
 
 .cardx {
