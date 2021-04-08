@@ -1127,7 +1127,7 @@ button#btn-fd {
 		position: fixed;
 		z-index: 999;
 		top: 0;
-		right: =100%;
+		right: -100%;
 		background-color: #fff;
 		overflow-x: hidden;
 		transition: .5s;
