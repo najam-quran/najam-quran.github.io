@@ -1223,7 +1223,7 @@ button#btn-fd {
      background: transparent !important; */
      backdrop-filter: none !important; 
      border-radius: 0;
-     border: 7px solid #87cec1;
+     border: 0 !important;
      padding:0 !important;
 }
 	.box .text h3{
