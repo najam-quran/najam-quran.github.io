@@ -561,17 +561,6 @@ nav {
 	position: relative
 }
 
-.headix:before {
-	content: '';
-	position: absolute;
-	bottom: -10px;
-	left: 50%;
-	transform: translateX(-50%);
-	height: 2px;
-	background: #222;
-	width: 80px
-}
-
 .card-container {
 	align-items: start;
 	display: grid;
