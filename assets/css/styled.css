@@ -1215,7 +1215,7 @@ button#btn-fd {
 @media (max-width: 992px) and (min-width: 768px){
 	.box {
 
-     background: transparent !important; */
+     background: transparent !important;
      backdrop-filter: blur(0px) !important; 
      border-radius: 0;
      border: 0 !important;
@@ -1226,5 +1226,8 @@ button#btn-fd {
 	}
 	.box .text p{
 	color:#fff;
+	}
+	.banit{
+		display:none;
 	}
 }
