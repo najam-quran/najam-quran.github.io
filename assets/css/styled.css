@@ -1221,7 +1221,7 @@ button#btn-fd {
 	.box {
 
      background: transparent !important; */
-     backdrop-filter: none !important; 
+     backdrop-filter: blur(0px) !important; 
      border-radius: 0;
      border: 0 !important;
      padding:0 !important;
