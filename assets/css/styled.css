@@ -1211,8 +1211,9 @@ button#btn-fd {
 		box-shadow: none!important;
 		width:auto !important;
 	}
-	.menu {
-		opacity: 0;
-		visibility: hidden
-	} 
+}
+@media only screen and (min-width: 993px)
+.menu {
+    opacity: 0;
+    visibility: hidden;
 }
